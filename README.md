@@ -1,4 +1,4 @@
-# UTS Pemograman Mobile 2
+# UTS Pemrograman Mobile 2
 
 ## Profil
 
